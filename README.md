@@ -7,9 +7,9 @@ Ce projet vise à analyser et optimiser les flux de patients dans les hôpitaux 
 🛠️ Stack Technique & Compétences
 Basé sur mon expertise technique :
 
-Langages :
+Langages : Pyton...
 
-Visualisation :
+Visualisation : Matplotlib,...
 
 Analyse de données : Détection de valeurs manquantes et traitement des données aberrantes via Power Query.
 
